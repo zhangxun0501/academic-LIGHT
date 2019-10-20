@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xun Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Professor of Electronic Engineering 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ISEP
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Visible light communication, hardware acceleration computing, indoor positioning system
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- VLC/LiFi
+- FPGA
+- Indoor positioning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Micro-electronic
+    institution: Nancy University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Electronic Engineering 
+    institution: University Sorbonne
+    year: 2005
+  - course: BSc in Telecommunication Engineering
+    institution: Wuhan University of science and Technology
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
