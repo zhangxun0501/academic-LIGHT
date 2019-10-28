@@ -17,4 +17,5 @@ title:
   # A hybrid power line and visible light communication system for indoor hospital applications
 W Ding, F Yang, H Yang, J Wang, X Wang, X Zhang, J Song
 Computers in Industry 68, 170-178
+
 ---
