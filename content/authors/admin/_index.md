@@ -14,7 +14,7 @@ role: Professor of Electronic Engineering
 # Organizations/Affiliations
 organizations:
 - name: ISEP
-  url: ""
+  url: "www.isep.fr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Visible light communication, hardware acceleration computing, indoor positioning system
